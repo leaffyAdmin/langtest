@@ -1,4 +1,4 @@
-name: build-monkci
+name: build-monkci-fastest
 
 on:
   push:
